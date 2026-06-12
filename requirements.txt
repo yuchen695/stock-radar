@@ -1,1 +1,5 @@
-streamlityfinancepandasplotlyrequests
+streamlit
+yfinance
+pandas
+plotly
+requests
